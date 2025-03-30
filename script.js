@@ -1,1 +1,1 @@
-console.log("line 1 in feature bracnh");
+console.log("line 1 in feature branch");
